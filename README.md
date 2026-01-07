@@ -22,4 +22,3 @@ A simple, user-friendly web application for tracking science lab materials, equi
 - **JavaScript**
 - **React**
 - **React Hook**
-- (Update this if the project also uses React or another framework)
